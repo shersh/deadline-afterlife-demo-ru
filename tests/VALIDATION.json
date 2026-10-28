@@ -1,0 +1,11 @@
+{
+  "patch_version": "1.0.0",
+  "portable_runtime": true,
+  "integration_install": "passed",
+  "unity_objects_compared": 14551,
+  "assembly_and_csv_byte_comparison": "passed",
+  "repeat_install": "no changes",
+  "restore": "all original SHA-256 restored",
+  "unsupported_version": "refused without modifying files",
+  "player_save": "unchanged"
+}

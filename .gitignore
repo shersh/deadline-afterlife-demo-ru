@@ -1,0 +1,8 @@
+/bin/
+/runtime/
+/dist/
+/.build-cache/
+/.test-work/
+__pycache__/
+*.pyc
+*.log

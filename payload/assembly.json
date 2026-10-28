@@ -1,0 +1,1532 @@
+[
+  {
+    "type": "Deadline.RetentionOrder",
+    "method": ".ctor",
+    "source_hash": "fd2968668885a91873e21ae8da1820caab677b310eef91e44f7821fc6d2cdf62",
+    "target": "ПРЕДПИСАНИЕ О ХРАНЕНИИ"
+  },
+  {
+    "type": "Deadline.RetentionOrder",
+    "method": ".ctor",
+    "source_hash": "07a2dd51bed748c4603e16b886b2ecd51efc539ff5d421afcdffa69991a7da33",
+    "target": "СУБЪЕКТ № {soul}"
+  },
+  {
+    "type": "Deadline.AuditDelivery",
+    "method": ".cctor",
+    "source_hash": "81c5263d24ff0f8fbb6059426aa7b60205eb832c478a1b44b54a7e7e372e0faf",
+    "target": "Если применимы две директивы, приоритет у наименьшего номера. Третий фрагмент — часть досье."
+  },
+  {
+    "type": "Deadline.AuditDelivery",
+    "method": ".cctor",
+    "source_hash": "a03c9121048261803a3a57e78a23d7980c1311ff9ae8fecb86a5694c475e4ab9",
+    "target": "Назначение противоречит применимой директиве."
+  },
+  {
+    "type": "Deadline.AuditDelivery",
+    "method": ".cctor",
+    "source_hash": "55b8841637372bbcf7d8b33ff87c6dd374aaa25dd84d9cd32ef243df9371de71",
+    "target": "Отклонение отмечено. Решение оставлено в силе."
+  },
+  {
+    "type": "Deadline.AuditDelivery",
+    "method": ".cctor",
+    "source_hash": "623da8c71d3b570b2ba547284f9f760043b8193b3066c65a13273fd8c6c836c1",
+    "target": "Личное усмотрение Оператора не предусмотрено D-02."
+  },
+  {
+    "type": "Deadline.AuditDelivery",
+    "method": ".cctor",
+    "source_hash": "5ebad4070cf6acd2e997bffe4c14a8359b8122fec7d88ecf724120e26ee4dac5",
+    "target": "Досье прочитано частично. Остальное было доступно."
+  },
+  {
+    "type": "Deadline.AuditPage",
+    "method": ".ctor",
+    "source_hash": "e4b85a8d2204118ce6ff837211e782fefc74eff74d06574e7ac1e74e26f82b01",
+    "target": "СВЕРКА РАСЧЁТОВ — СМЕНА {shift}"
+  },
+  {
+    "type": "Deadline.AuditPage",
+    "method": ".ctor",
+    "source_hash": "9a7b1709b6f105c4c0e3e7253ae5c5298b0e237853609e1d420cabb1cac0d5aa",
+    "target": "ВЫБОРОЧНАЯ ПРОВЕРКА — {rate}%"
+  },
+  {
+    "type": "Deadline.AuditPage",
+    "method": ".ctor",
+    "source_hash": "f259f942a15126001be6cb778399466e6e68cc073e989abefa5bef1e868ea29d",
+    "target": "ОСТАЛЬНЫЕ РЕШЕНИЯ: НЕ ПРОВЕРЕНЫ."
+  },
+  {
+    "type": "Deadline.AuditPage",
+    "method": ".ctor",
+    "source_hash": "619500357103cdcbbd2a92432698b6f73c031db5d61d58de8c4710eb2d2cd79e",
+    "target": "ФОРМА RC-2 · СМЕНА {shift}"
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": "get_QualityChoices",
+    "source_hash": "5fbdda1b8c72e849493a8534652682ed35b5bde51896cd1f457278883b0c5cf4",
+    "target": "НИЗКОЕ"
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": "get_QualityChoices",
+    "source_hash": "7c48dd672a68098c3a9dac57805004a146db39c8d60c81d091537ee9c4a76054",
+    "target": "СРЕДНЕЕ"
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": "get_QualityChoices",
+    "source_hash": "b43e72eed0488d784f1e3092b48320e2355e9d6313f7ac401542018eec20d8a3",
+    "target": "ВЫСОКОЕ"
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": "get_QualityChoices",
+    "source_hash": "54c0847d89738b37a002f1316ecec8c8358dc43347ae3da3fad28b3a75852f56",
+    "target": "АВТО: "
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": "get_QualityChoices",
+    "source_hash": "6ea56fae9eacbb0ebed74bbbe731cf1179b7d41146162fe9b8c26cf0615c2367",
+    "target": "АВТО"
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": ".cctor",
+    "source_hash": "5fbdda1b8c72e849493a8534652682ed35b5bde51896cd1f457278883b0c5cf4",
+    "target": "НИЗКОЕ"
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": ".cctor",
+    "source_hash": "7c48dd672a68098c3a9dac57805004a146db39c8d60c81d091537ee9c4a76054",
+    "target": "СРЕДНЕЕ"
+  },
+  {
+    "type": "Deadline.GameSettings",
+    "method": ".cctor",
+    "source_hash": "b43e72eed0488d784f1e3092b48320e2355e9d6313f7ac401542018eec20d8a3",
+    "target": "ВЫСОКОЕ"
+  },
+  {
+    "type": "Deadline.RequisitionForm",
+    "method": ".ctor",
+    "source_hash": "0c25aaf36ce95fa53f78394a226fd087d5b42006ff054da439cc4848c19e9360",
+    "target": "ОБОРУДОВАНИЕ И УДОБСТВО"
+  },
+  {
+    "type": "Deadline.RequisitionForm",
+    "method": ".ctor",
+    "source_hash": "a40418014391471615bd9e5239eeb80c4ef8340a60b31106ac2c2ab96edfc4b3",
+    "target": "КОМФОРТ"
+  },
+  {
+    "type": "Deadline.RequisitionForm",
+    "method": ".ctor",
+    "source_hash": "5827a729392b40348dac951cd5a434b424d59b73cd9fb5e708d7077a64395a8b",
+    "target": "ОСОБОЕ ОБОРУДОВАНИЕ"
+  },
+  {
+    "type": "Deadline.RequisitionForm",
+    "method": ".ctor",
+    "source_hash": "979b54a009d9deb87713214b5f902143935061e675513b5cef6bff2cb57bf46b",
+    "target": "СМЕНА {shift}"
+  },
+  {
+    "type": "Deadline.RequisitionForm",
+    "method": ".ctor",
+    "source_hash": "c4c195c92eee28b1d676b9306d92aa25e1c8e9e5c0f9ad6b85a24380bccdf9d6",
+    "target": "НЕ ИСПОЛНЕНО — НЕДОСТАТОЧНО СРЕДСТВ"
+  },
+  {
+    "type": "Deadline.RequisitionForm",
+    "method": ".ctor",
+    "source_hash": "6af52e998df31065ae934b2719c878f44ef8967ee48eb3498f1dab6bf6f4c69b",
+    "target": "НЕ ПОДПИСАНО — НЕ ОБРАБОТАНО"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "d237221961905ccfbe8b78dade1ca599fc8cce8cb43afe6ad47b29b885c9ff3d",
+    "target": "МГНОВЕННОЕ ДОСЬЕ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "a534a836047dfc5673236b200b07826e13d25d87ae59e4d2e049285b481b1338",
+    "target": "Убирает ожидание. Оставляет слова."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "cd10cbc79fa5e2c194f8f1ac475bc4d52395a625937566bc4dae83b828ac6b48",
+    "target": "СМАЗКА НАПРАВЛЯЮЩИХ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "0963b518c28127ee015b34c53e6bcc90826eb08d4485ebc0d19f4c6d8383451c",
+    "target": "Очередь движется быстрее. Длина очереди прежняя."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "81e3cb32dafce306c1d64d90344b103cdb3d56772062d65291cc2265fe44b17f",
+    "target": "ОБЛЕГЧЁННЫЙ РЫЧАГ ВЕРДИКТА"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "877d96aafe8aab9de2c95dda83509725e1ddd85ff3953419b9894be71bfe36af",
+    "target": "Вердикт меняется легко. В обе стороны. В обе."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "0548c92f372dda1fab9ede27624f6c3810064b8d564087ac9855056c3ad6f5c5",
+    "target": "БОТИНКИ, ОБРАЗЕЦ 2"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "b2d189dd215aa57b2e8c0dfc7266177f082bcf4a6dcf44fdf1718748385c6d58",
+    "target": "Сокращает время ходьбы. Ходить по-прежнему вам."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "b41c787ef46137fe29c16389d77df3f396ce78e8b2fa06569f834652c11b3b7d",
+    "target": "ПРОТИВОВЕС"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "10a18589cb412b68164a8a15afebdb59f65269913e88781cbcd3ed810138b5c2",
+    "target": "Рычаг опускается тяжелее. Вашему плечу достаётся меньше."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "e32313209bea1c3badd25cd766d1cf643e5060eba4c95c0fdee20b2cefdcd11e",
+    "target": "БОТИНКИ, КЛАСС II"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "9042eebc4cd914db29da74e62f615c66a6ba92c6fd6221fbf08e5ae0d0357d3c",
+    "target": "ОБЛЕГЧЁННЫЙ РЫЧАГ ПОДАЧИ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "4f127f8c6ef55d51d99bf373bf80884acb7e8b286ee80e64c459259fe04ca987",
+    "target": "ТАБЛО ПРОИЗВОДИТЕЛЬНОСТИ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "ba4063578e1aae5a898dacdebd8ea7b7cb7670f4dd0a38583b470551cd7e9e6c",
+    "target": "Темп работы и счётчик смены на прессе. Знайте своё число."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "cba0c4f7be422df80aa5e8a2de8613650f0221ecee1c0b89bdf4c3fdd2b476f2",
+    "target": "ЧАЙНИК"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "cbe95a160f8fbe062d9236ecf655bef9af27a08387d09aebdc86b3d6f7a05d19",
+    "target": "Горячая вода на посту."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "72a84ebd1a8fb63332860824a0808e72199ebff2c2634a34aa9b28832b6d90a1",
+    "target": "РЕМЕНЬ ДЛЯ ПЕРЕНОСКИ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "bd615f4c6b0aadb5bc6c7858a504decfda4a97c2856223d7117fd6f199183f39",
+    "target": "СТУЛ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "202c3bfc2b05fa39a53387b2309e9e555dedbeb7ec1dd896f56628ef60c7166d",
+    "target": "На время отдыха."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "40bac85b5259f9fd296039179706b6e97d675826ca6d90740cb18092af57d807",
+    "target": "ДОСТУП К ДОСЬЕ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "0857f00a6ea71a849ee0c51beb0aa98dc255ffce3474a3be1f1fbb2319564ed0",
+    "target": "ВЕНТИЛЯТОР"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "c0c0420765619c288651a064aad13e88b85a0df15f5389ca25e91b25b76d2b89",
+    "target": "РАСТЕНИЕ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "4f69580a1a3a6ce53a2cff66b272fd959a9b54d279fc251025e65494ad079574",
+    "target": "Растение в загробном мире. Не растёт. Не умирает."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "f689d72b25a122d3cedad218994562d9c9868b9db96929c8f0f7c83c24af3b42",
+    "target": "СКАНЕР СУБЪЕКТА"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "939860dc58b141e24e859f58475e88ba1b858fec348dfb1c6668599d893d3fd7",
+    "target": "Применимая директива на каждом талоне."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "e29cb3ddb600e475cc6a3177b8529b069d330b386956479347b1c1f52e7ebfa5",
+    "target": "ПНЕВМОСБОР"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "cbfd956faeb971a44a03eb5ed899a75876483f867aec46f4cf6b56ff7682f7c4",
+    "target": "ПРОГРАММА СЕРТИФИКАЦИИ ЭФФЕКТИВНОСТИ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "64a88ba4369a75403d89bb36ebbf0f1f7b98494cd212c329373bb7437af45653",
+    "target": "Запись на программу. Надбавки за стабильную выработку. Выдаются сертификаты."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "0fded2c4f39051339324ed218950fed94ecfb1e33e2c44ac548d40f2212feb72",
+    "target": "СЕРВОПРИВОД"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "6c8e5646bf77cac012675579e9d0bdc7618266b54190309f089d590dbece5fce",
+    "target": "Автоматически выставляет рекомендованный вердикт. Ручной пересмотр сохранён."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "a44cddd3d75fb6239f9732e243f2ed4d594e918f5442a882957a870e20917193",
+    "target": "СИЛОВАЯ ПЕРЕДАЧА"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "1c0fcb805d38ec5a93788aec2b398449e2c1685ef8f9d4c69236d805bba3705e",
+    "target": "Вместо рычага — клавиша."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "420a4fbe1e25ac860d79340fbdbf60ce6763b9d9dd580680e0c9491708ef3af3",
+    "target": "ГРУППОВАЯ ОБРАБОТКА"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "3284408668fd42c09937353d9b2b68c4b7794b4769c9acbfe292f492eaf9170b",
+    "target": "До трёх субъектов с печатью за цикл."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "018eda3d57e789c5d2d4a464cf28285142581d2220a3e16130f0354d9297269c",
+    "target": "КРАТКАЯ СВОДКА"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "7e8aa56f29b2ac87b6786fb751ac06b13e364e4f391e852bd5da276f27680dd1",
+    "target": "Только сведения, важные для вердикта."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "c8f3e9632d0fbb7fbdbda5330dfcd2a5268c94bc53d4a1f1f93e8b5c90131d46",
+    "target": "МОДУЛЬ АВТОПОДТВЕРЖДЕНИЯ"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "53246ba10773992487703639c993fc150bd15934fe3ce8714bd71336233ffd8a",
+    "target": "Субъекты без присмотра получают печать сами."
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "1714989448916ebb74fd68696d21ac9881721e2b64e482932b41edd21e250fc2",
+    "target": "ПОМОЩНИК ОПЕРАТОРА, ОБРАЗЕЦ 1"
+  },
+  {
+    "type": "Deadline.ShopCatalog",
+    "method": "Default",
+    "source_hash": "4c50d915dfe4b8c6ec6b112b6818ce1a1c330748e4d696f342243459847f6f69",
+    "target": "Полностью автоматический цикл пресса. Сопроводительное письмо запросите в окне."
+  },
+  {
+    "type": "Deadline.EndingWalkStub",
+    "method": "OnGUI",
+    "source_hash": "1732ef2228a07d422cb5589b383c794764eac4863680207aa7d9bf4eac9382ee",
+    "target": "ВЫЙТИ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "c2a4e3ce1401c4d75d29f878e9500e719b334c8dc8a2e4600d86da611eb71bab",
+    "target": "УСЛОВИЯ СЛУЖБЫ — ОПЕРАТОР"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "7b35036eeb189b0f1fbe4cdc53c551efd305fd3490689fd4899fae8568e5bf1f",
+    "target": "СУБЪЕКТ №"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "71635fd497c415b95f57e641b6c175368b436b70280a17b00a3643bbc8978d3c",
+    "target": "УВЕДОМЛЕНИЕ О СМЕРТИ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "0686a4a61d84bd35aeb6055f023e09397432778c478ac4e481641001b33fa1d7",
+    "target": "Вы мертвы.\nПричина внесена в досье. Вас она не касается.\nТо, что осталось позади, в вас больше не нуждается. Не спрашивайте об этом.\nСкорбеть можно в свободное время. Его у вас больше нет."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "866398370269e5b64ee447be67d8134451bf5ba28c89026ab83c47cad4119b6b",
+    "target": "НАЙМ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "30d961af8d9096465eef1fb35e66f6b2d5d14daa1d4697ce8b59c5eac1393633",
+    "target": "Субъект принят на должность Оператора с момента смерти. Пост 9. Приступить немедленно."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "1e344ea0e0a52a9f602805a6a474721899678fe16a2ef1cdd18df8718289141d",
+    "target": "ФУНКЦИИ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "00a7fd7bad6999d45d8bc9b2e4cfc92ad9e96508ec73b6ec717de0e2af52954c",
+    "target": "Оператор обязан судить каждую поступившую душу и направлять её ВВЕРХ или ВНИЗ. Назначения окончательны."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "fdc0f73b7b4b3425c5077c33d89cf144bf2255b1c1652bd24b91f9edb4698129",
+    "target": "РАБОЧЕЕ ВРЕМЯ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "7425b550df95f879a1e9f076a731be3dbd39e184be1ca3ccee9b90c8ea8799e0",
+    "target": "Работа посменная. Отпуск не предусмотрен. Отпуск по случаю утраты умершим не предоставляется."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "1092e2e43a486c0a247743940abb3210d77c912476ac72e4c854ae4f13383125",
+    "target": "ДОСЬЕ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "f04a20f527e3a1c2b4feb225e7122ab2cd3398c2cfd50d655193e7565bab8358",
+    "target": "Назначения, вынесенные оператором, составляют его личное дело."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "96687f46827bae4f10ed84327e7beea4527f44b067212f9cdd595cc5cf83e67f",
+    "target": "ЗАРПЛАТА"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "ac1629757260decd2dc0bd8177d517c77c5ae55049f80a5e5254cd75aa39ec96",
+    "target": "Зарплата начисляется по ставкам учреждения. Предусмотрены удержания."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "182e499256bea391f0891e85aa5d782074934150b986e530eb4a4170f073312e",
+    "target": "КОНТРОЛЬ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "76f4e89fb742a7227e6def38f664f2adfbbb50f588881e58c402b309b4c355d6",
+    "target": "Работа Оператора проверяется по усмотрению учреждения. Ошибки относятся на счёт Оператора."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "80047ff28f34611918cc3c4ed9ea52f2802ecace1af55f8d389551794113d62e",
+    "target": "СОГЛАСИЕ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "f82ba59e5337a651c16a3318ad2b958fc4f2b7c402b7a8a05c44ed0acc4fbf72",
+    "target": "Подпись ниже означает согласие с условиями. Отказ от подписи считается согласием. Альтернатив не предусмотрено."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "33d624ca43f2293834b5d063916fa9cdbd893b639e261b6965f7180289de8016",
+    "target": "ПОДПИШИТЕ ЗДЕСЬ"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "17f9a0a512ab113203d92163f62ec215faec49fd2d48bab3cf988573139b8b1b",
+    "target": "ДАТА"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "e0307310dd2572615f5c98fda3cd40bd7a20e4db8f6db0b9744fd152db99ce83",
+    "target": "СМЕНА 0"
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "e795f5bf1f9bd73f3c07b5253a0d5754dc1c4ca4624a85eb7c0ba0cdd88b3b2d",
+    "target": "Субъект подтверждает, что подпись выше принадлежит ему и поставлена добровольно."
+  },
+  {
+    "type": "Deadline.ContractPage",
+    "method": ".ctor",
+    "source_hash": "423318d920c8544fdfbfbff99b4c7fc911340c427288a7cce66d724dfa0ac500",
+    "target": "Аннулировать подпись выше и подписать заново."
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "1b44b7afbade20e5ec03203f1a5e944cffd0f1faeeb0151c8e86facc6d4819d2",
+    "target": "УДАЛЕНИЕ ЗАПИСИ"
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "6698f546ae6323da2157de2bd880179a40ac5426a1926facd0a6673975f05b46",
+    "target": "ПРОСНУТЬСЯ"
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "628db0c7598820b101769164f5228a5096e4f531ee71ee7e5e31d734dd38fe64",
+    "target": "ПРОДОЛЖИТЬ"
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "02f6ea12816a9e7b8ce846f149281b130033cf5145d260dfea7405bc8866ee1e",
+    "target": "НАСТРОЙКИ"
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "1732ef2228a07d422cb5589b383c794764eac4863680207aa7d9bf4eac9382ee",
+    "target": "ВЫЙТИ"
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a",
+    "target": "НЕТ"
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297",
+    "target": "ДА"
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "f88fb1cb049297dd3c960b0ae8bd50fb055e6d61cdb449addd48a9308f2f9bd0",
+    "target": "ВАША ЗАПИСЬ БУДЕТ УДАЛЕНА."
+  },
+  {
+    "type": "Deadline.WakeIntro",
+    "method": "OnGUI",
+    "source_hash": "c9e8a645491bf416df32c9314349def20aefb8c2b90247cdbe31937cb7e5d178",
+    "target": "ВЕСЬ ПРОГРЕСС БУДЕТ ПОТЕРЯН."
+  },
+  {
+    "type": "Deadline.RetainStamp",
+    "method": "Print",
+    "source_hash": "07a2dd51bed748c4603e16b886b2ecd51efc539ff5d421afcdffa69991a7da33",
+    "target": "СУБЪЕКТ № {soul}"
+  },
+  {
+    "type": "Deadline.RetainStamp",
+    "method": "Print",
+    "source_hash": "c853898162719bb116052712966c97e9ec15354fdef4a69c04df39b980195a60",
+    "target": "СУБЪЕКТ..."
+  },
+  {
+    "type": "Deadline.RetainStamp",
+    "method": "Print",
+    "source_hash": "cb48c81c89e408320f74228903576606e4e1134301debb196e92014d459989c7",
+    "target": "МЕСТО..."
+  },
+  {
+    "type": "Deadline.RetainStamp",
+    "method": "Print",
+    "source_hash": "979b54a009d9deb87713214b5f902143935061e675513b5cef6bff2cb57bf46b",
+    "target": "СМЕНА {shift}"
+  },
+  {
+    "type": "Deadline.RetainStamp",
+    "method": "Print",
+    "source_hash": "d44c8c3caa4688f2a08889019cb9060d2b6f53b8abb80060f2f2c8b90454e4ba",
+    "target": "НА ХРАНЕНИИ"
+  },
+  {
+    "type": "Deadline.SlipPrinter",
+    "method": "Fill",
+    "source_hash": "9e732f1759fc9869d06d3f1bdc32868a7c22cfb94cf3ee099cf47ec4ece3fa1d",
+    "target": "ВНИЗ"
+  },
+  {
+    "type": "Deadline.SlipPrinter",
+    "method": "Fill",
+    "source_hash": "5942bd952f12e02478b5a6aba902340a58c9c769a961f128dbb57f0b79358537",
+    "target": "ВВЕРХ"
+  },
+  {
+    "type": "Deadline.Terminal",
+    "method": "CitationLine",
+    "source_hash": "c5edd8831a20260045d28bc44db3514731f320737e6a69492fef25e8523111d6",
+    "target": "ДИРЕКТИВА {directive}"
+  },
+  {
+    "type": "Deadline.Terminal",
+    "method": "HelperMessage",
+    "source_hash": "280fa3f71a75f9bb7e8c83823233d7c21696a2d7d0c0a5ea20543f58486ba5ff",
+    "target": "ВХОДЯЩЕЕ СООБЩЕНИЕ"
+  },
+  {
+    "type": "Deadline.Terminal",
+    "method": "HelperType",
+    "source_hash": "53bd7defb1deb01074b6d18b5446c60c982461e0948be53e11737104b6713666",
+    "target": "ты успел. я задержал часы. отправляю тебе ещё одну душу для пресса. быстрее."
+  },
+  {
+    "type": "Deadline.Terminal",
+    "method": "UnstampedLine",
+    "source_hash": "640841f30570df25a7805720957350e7aad959e7b0cbca6b3d90ca7cb972398a",
+    "target": "НА ДУШЕ НЕТ ПЕЧАТИ\nДУШИ БЕЗ ПЕЧАТИ НЕ ОПЛАЧИВАЮТСЯ\n\nЛЕВЫЙ РЫЧАГ.....ВЕРДИКТ\nВПЕРЁД...........ВВЕРХ\nНАЗАД.............ВНИЗ\nПРАВЫЙ РЫЧАГ.....ПЕЧАТЬ"
+  },
+  {
+    "type": "Deadline.Terminal",
+    "method": "RetainSteps",
+    "source_hash": "a67d901233766e9cd8e3a2b5bc1940e773f347c0f75b3a4b7a394035d1bb8bb5",
+    "target": "ВСТАВЬТЕ ПРЕДПИСАНИЕ\nВ ЩЕЛЬ ПРЕССА"
+  },
+  {
+    "type": "Deadline.Terminal",
+    "method": "RetainSteps",
+    "source_hash": "d5f3126b91699bd702a90a1079f80ac54b31182f726a69d8de84366b2247ddef",
+    "target": "ПОСТАВЬТЕ ПЕЧАТЬ"
+  },
+  {
+    "type": "Deadline.Terminal/<PrintUnreadable>d__68",
+    "method": "MoveNext",
+    "source_hash": "a9567097baa15dfd1bc77b89623da4fe6febf55b36983c9e28d4c1a30e7c5b2d",
+    "target": "ХРАНЕНИЕ НЕДОСТУПНО — ПЕРЕДАН НА СОДЕРЖАНИЕ."
+  },
+  {
+    "type": "Deadline.Terminal/<PrintUnreadable>d__68",
+    "method": "MoveNext",
+    "source_hash": "ebda441c9347cb45d7747b1936a7e2c48f956bef2fd697f2d271094ee2ce04e3",
+    "target": "КЛАССИФИКАЦИЯ НЕ УДАЛАСЬ. ПЕРЕДАТЬ НА СОДЕРЖАНИЕ."
+  },
+  {
+    "type": "Deadline.Terminal/<PrintUnreadable>d__68",
+    "method": "MoveNext",
+    "source_hash": "67b69736830fb896b50f3237b09cc23e0e3457ab11f9cde204a13c5fff471746",
+    "target": "НЕДОСТАТОЧНО ДАННЫХ. НА ХРАНЕНИЕ ДО ПЕРЕКЛАССИФИКАЦИИ."
+  },
+  {
+    "type": "Deadline.Terminal/<PrintVerdictOnly>d__73",
+    "method": "MoveNext",
+    "source_hash": "49d61d2c7043d231e6bbd3f5b55d316c83421fd5bca1d28d893eb8baf8f56ee8",
+    "target": "СУБЪЕКТ {soul_id}   ·   НАЗНАЧЕНИЕ {verdict}"
+  },
+  {
+    "type": "Deadline.Terminal/<PrintVerdictOnly>d__73",
+    "method": "MoveNext",
+    "source_hash": "e6e14599bb2d97cbd8a967e927176ec6e3725fc07fea85e2fd22fcda59596a5f",
+    "target": "СУБЪЕКТ {soul_id}   ·   НА УСМОТРЕНИЕ ОПЕРАТОРА"
+  },
+  {
+    "type": "Deadline.Terminal/<PrintVerdictOnly>d__73",
+    "method": "MoveNext",
+    "source_hash": "1de8c3d9af41b1ae29e3679349c8ec02b4dd33329c6bafa09cc5fbc3849495c8",
+    "target": "ДОСЬЕ В АРХИВЕ. НАЖМИТЕ {key} ДЛЯ ЗАПРОСА."
+  },
+  {
+    "type": "Deadline.Terminal/<RequisitionSlot>d__69",
+    "method": "MoveNext",
+    "source_hash": "858b1a010458f896e19e6c96facfe16ae7d314a1aa85fb47620b4e27391c1d7f",
+    "target": "МЕСТО ЗАПРОШЕНО — ПРИОРИТЕТ ПЕРЕКЛАССИФИКАЦИИ."
+  },
+  {
+    "type": "Deadline.TerminalChoke",
+    "method": "ErrorScreen",
+    "source_hash": "d98ee0e5f9399db9381014c9f890f896d3fcb272c2a7a521d0a13aa23085a284",
+    "target": "ОШИБКА"
+  },
+  {
+    "type": "Deadline.TerminalChoke",
+    "method": "BarScreen",
+    "source_hash": "bd3be6e3a608619bcad34736db5244b933a22e582a8ba4c0e0ebe10d644233b4",
+    "target": "ЗАПРОС ДОСЬЕ {soul_id}"
+  },
+  {
+    "type": "Deadline.TerminalChoke",
+    "method": "BarScreen",
+    "source_hash": "02bd349299173f7fdf2dbc983d70961b26d74e6260c3755a058e25f5ee172f98",
+    "target": "СБОЙ"
+  },
+  {
+    "type": "Deadline.BootScreen",
+    "method": "OnGUI",
+    "source_hash": "3cee04a456874ad859729b5927ce4de201c3c2146c39abbb619a62a747b90817",
+    "target": "Найдено сохранение. Продолжить со смены {shift} или начать заново."
+  },
+  {
+    "type": "Deadline.BootScreen",
+    "method": "OnGUI",
+    "source_hash": "1ad69288a476d30416ad78f3df67010b60fb3405379a5dbe63493c460729f016",
+    "target": "Сохранение от несовместимой версии (сохранение v{file_version}, игра v{game_version}). Загрузка невозможна. Начать новую игру?"
+  },
+  {
+    "type": "Deadline.BootScreen",
+    "method": "OnGUI",
+    "source_hash": "d5d71c85056cee0ab4642bce599b1323a3d7fad07b2bc6c02aaafa6c938bcc28",
+    "target": "Не удалось прочитать сохранение. Начать новую игру?"
+  },
+  {
+    "type": "Deadline.BootScreen",
+    "method": "OnGUI",
+    "source_hash": "0cec3d046856530279f4a810139ecea9bd031d857616c9b5905108f9ac0536d5",
+    "target": "ПРОДОЛЖИТЬ — Смена {shift}"
+  },
+  {
+    "type": "Deadline.BootScreen",
+    "method": "OnGUI",
+    "source_hash": "f5615c7fe53edd3416a7acdba8ba8576c9eaf1136fad92e6f1640274a9e83a5f",
+    "target": "НОВАЯ ИГРА"
+  },
+  {
+    "type": "Deadline.DisplayConfirm",
+    "method": "OnGUI",
+    "source_hash": "e9f18dd287a2c9fd6bb0e611f2000323b55062333b3b968763f2abfbf54b8999",
+    "target": "СОХРАНИТЬ НАСТРОЙКИ ЭКРАНА?"
+  },
+  {
+    "type": "Deadline.DisplayConfirm",
+    "method": "OnGUI",
+    "source_hash": "b31ce7a79f3b0c1d9ee06b2ab02b0d0e95db2353fb13788c6944013949cd8693",
+    "target": "Прежние настройки вернутся через {seconds} с."
+  },
+  {
+    "type": "Deadline.DisplayConfirm",
+    "method": "OnGUI",
+    "source_hash": "1dd17190a2f261044d8e04d099db4ebe2754ff402e5c2b8b759498176ddd343a",
+    "target": "СОХРАНИТЬ"
+  },
+  {
+    "type": "Deadline.DisplayConfirm",
+    "method": "OnGUI",
+    "source_hash": "0607a789d22db4b6c35716fc6304a327c521048e452c783c7e2b7c33fffea643",
+    "target": "ВЕРНУТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "ca1df588864011a8a3d428cc5a53397cf5232f225477cea5c62d018bfb4579e4",
+    "target": "НАЖАТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "77c60855aba18aebf358dd92d595f29beb55a88ae1f6123281eeebaac0df0b36",
+    "target": "ЧИТАТЬ БЛИЖЕ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "8b481fe5e3612885b9ea8b415fc2203bf5a9815d63c76402559547735a2d313c",
+    "target": "ПОДОЙТИ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "6e10953f3e4ca159285c03a116d60c5086727c958dc25b31c39848ffea1dcdfe",
+    "target": "ОТКРЫТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "7e56db77349537b42f27d12537f2b818b7ca4dfbc1ed8cbe2e20d511cbc8a7b3",
+    "target": "ВЗЯТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "2992d15897b5bbe71ad94b6609637dbaef1d085d2ca5431355b42b733231f992",
+    "target": "ВЫСТАВИТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "4030f8fc4bcfcf644a6a7406212cc86934989c9b15b65f1cd69b3cb5fdff33e1",
+    "target": "УДЕРЖИВАТЬ ДЛЯ ПЕЧАТИ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "77c32b1caae448fa0724530405e665ca07e2d8c13e3cbe844f2821f1a5b74b33",
+    "target": "ОТМЕТИТЬСЯ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "a0dcd86ca390c0a83a3546b1d437af7cf0e7431046dae931f0db1ece42c28ef6",
+    "target": "ПОВЕРНУТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "Line",
+    "source_hash": "3f5637410846d545fb4f35d3a5d201f494216e9c68da12f21357c15d6e5f25e7",
+    "target": "ЧИТАТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "get_ReadCloser",
+    "source_hash": "77c60855aba18aebf358dd92d595f29beb55a88ae1f6123281eeebaac0df0b36",
+    "target": "ЧИТАТЬ БЛИЖЕ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "SlipLine",
+    "source_hash": "9e268f3923fd0a4c5591a7cfb0688e5b894b3dcda47eff8bf8ada48f645de1f7",
+    "target": "БРОСИТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "SlipLine",
+    "source_hash": "499ef813fc434761f3f082d88b7ad1b501afa8d09fb9888f2e3e938932ba3fd4",
+    "target": "РАЗГЛАДИТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": "SlipLine",
+    "source_hash": "e8fe74d79b80255a8f4d72741fd6d990be9ab6047bd857fb7b26ada0c23b4094",
+    "target": "СМЯТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": ".ctor",
+    "source_hash": "068853f9278bb15992138f8b6f46317cd8cead0987e1f46d3c3c492755a64d1e",
+    "target": "ПОЛОЖИТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": ".ctor",
+    "source_hash": "51a6806d09987f6f12f633108565301d968db4da9edc473575d0f3ca6db8dc5b",
+    "target": "ОТОЙТИ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": ".ctor",
+    "source_hash": "3979e291594f6d58e0b6a18e839bdb0a9c0be516d43338f4abbddbc5f1454f41",
+    "target": "РАБОТАТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": ".ctor",
+    "source_hash": "9ef2faffd23e7fdda264eeeb3114357fcb304142506cbb023c2894ac10f71654",
+    "target": "СДАТЬ"
+  },
+  {
+    "type": "Deadline.InteractPrompt",
+    "method": ".ctor",
+    "source_hash": "b3c2ed23b44e753d6bfc54b1d48ff7d0e4959624ecf1ceb1d0942bac08548634",
+    "target": "ИСПОЛЬЗОВАТЬ"
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a",
+    "target": "НЕТ"
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297",
+    "target": "ДА"
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "e732ecfef908ff5d053f243ae8d94fedd8c5ab022f97b87d551980df967ceef9",
+    "target": "ВЫ УВЕРЕНЫ?"
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "3a3c57cb0816b7d91abbfc78c0b007c4a388e1b9555f1f9f0641010f7084ea33",
+    "target": "Восстановить запись будет невозможно."
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "54c00dba11ed05821b396f13e5174c14b6792e5f5aa97edd2da2b10b13b43bac",
+    "target": "ВЕРНУТЬСЯ К ОБЯЗАННОСТЯМ"
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "02f6ea12816a9e7b8ce846f149281b130033cf5145d260dfea7405bc8866ee1e",
+    "target": "НАСТРОЙКИ"
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "a84a452d880829da1afecc97ac332337caeaecfade98bad76bb401bc7100eab0",
+    "target": "УДАЛИТЬ СОХРАНЕНИЕ"
+  },
+  {
+    "type": "Deadline.PauseMenu",
+    "method": "OnGUI",
+    "source_hash": "5eb55d4be942840846051794f1324fa629bfe49c67df6db8003826680c7f9018",
+    "target": "ПОКИНУТЬ УЧРЕЖДЕНИЕ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Inspect",
+    "source_hash": "52688800e0e45223cfa7460804ba8d05c90d9dba0d6e7b6a3821a14143ba278e",
+    "target": "ОСМОТРЕТЬ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "a76c48ed6dc4387b473dc6d2a2d2ac06bb7795c960faddec3035f32016d24b34",
+    "target": "К ТЕРМИНАЛУ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "5d3a461b9abc1e99495c9c23e4da25dfb1e7af75fab6131039d4a37ff21fcea3",
+    "target": "◄ К ТЕРМИНАЛУ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "7e56db77349537b42f27d12537f2b818b7ca4dfbc1ed8cbe2e20d511cbc8a7b3",
+    "target": "ВЗЯТЬ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "4030f8fc4bcfcf644a6a7406212cc86934989c9b15b65f1cd69b3cb5fdff33e1",
+    "target": "УДЕРЖИВАТЬ ДЛЯ ПЕЧАТИ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "5c1a323948848e02ae118ec62babcedde38351b3c292bc0498192968134a2d5b",
+    "target": "К ПРЕССУ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "dedbda27854e127186204d9d5bab5a30100f94ca667962545a20315c4bd1e485",
+    "target": "► К ПРЕССУ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "5942bd952f12e02478b5a6aba902340a58c9c769a961f128dbb57f0b79358537",
+    "target": "ВВЕРХ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "04fa1ea41c91cb47001b56e559a77f4ba7bb679b931a506ff79ab180d2a8f454",
+    "target": "▲ ВВЕРХ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "9e732f1759fc9869d06d3f1bdc32868a7c22cfb94cf3ee099cf47ec4ece3fa1d",
+    "target": "ВНИЗ"
+  },
+  {
+    "type": "Deadline.PromptSteps",
+    "method": "Press",
+    "source_hash": "9badcc288304e2410aa1cfee8da7ee72c0e39d5536285dcf32ff8c13ebd5ae10",
+    "target": "▼ ВНИЗ"
+  },
+  {
+    "type": "Deadline.QuitAsk",
+    "method": "OnGUI",
+    "source_hash": "a76deddd86172ddad1a252de69d240c0efe5275de33468182636d6cb21916f2e",
+    "target": "ПОНРАВИЛАСЬ СМЕНА?"
+  },
+  {
+    "type": "Deadline.QuitAsk",
+    "method": "OnGUI",
+    "source_hash": "97e23a1cee9aa810db6cb6755d7b4f221483a140dda834268fee7506b21eb415",
+    "target": "DEADLINE создаёт один человек. Добавление в желаемое — лучшая помощь автору."
+  },
+  {
+    "type": "Deadline.QuitAsk",
+    "method": "OnGUI",
+    "source_hash": "62ac2c7f63d4f29e49b6732c735ddff6668b2f67d5d03c9981e0038f475275f4",
+    "target": "В ЖЕЛАЕМОЕ STEAM"
+  },
+  {
+    "type": "Deadline.QuitAsk",
+    "method": "OnGUI",
+    "source_hash": "a568938510bc5497838c0a031013ddf2d2aa397fadae3a681cee85cf63249f79",
+    "target": "ПРОСТО ВЫЙТИ"
+  },
+  {
+    "type": "Deadline.QuitAsk",
+    "method": "OnGUI",
+    "source_hash": "639807a2e01886a2236b9fe1fe9bdbdea267b9c84c4acb3ab0858a6a13531b9a",
+    "target": "НАЗАД"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Options",
+    "source_hash": "1f8c000f96348d75067a9427c449993a4c94aaa6717f199f80f87fdcdaa91315",
+    "target": "ПОЛНЫЙ ЭКРАН"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Options",
+    "source_hash": "576290d91ca2e0463ac0ac87d43b5e9720ccf9b4568f38a9ed7fbcafcf438a17",
+    "target": "В ОКНЕ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawChecks",
+    "source_hash": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297",
+    "target": "ДА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawChecks",
+    "source_hash": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a",
+    "target": "НЕТ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawAsk",
+    "source_hash": "f0762c4f3bfcd695e32e7fcd087dc2a60bc26cda108b4fc0a643445b397168c7",
+    "target": "Вы уверены?"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawAsk",
+    "source_hash": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297",
+    "target": "ДА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawAsk",
+    "source_hash": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a",
+    "target": "НЕТ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawChoice",
+    "source_hash": "d509e493885298a23c55f83c133e5d725f24dd6cc67cf734baa2c11b220ab809",
+    "target": "Исходное"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawToggle",
+    "source_hash": "e8a01133b1351e5fa434167135400d1998d3daa8ce74e3dd9bb57582fa4d7b97",
+    "target": "ВКЛ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "DrawToggle",
+    "source_hash": "38cca6bea010af8adaf4be7d270456fa9adef8c0252db91f2767c607d077319b",
+    "target": "ВЫКЛ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "ButtonName",
+    "source_hash": "11364a4c8f174651156e7203a53f4c1a7ab0e17014bf238d9abef50c3ea6e3f6",
+    "target": "МЕНЮ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Shown",
+    "source_hash": "a7248eeb45eb1ce247f81693283e22e8b39e8a50890cecd22d02e75025547d90",
+    "target": "Обычное"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Shown",
+    "source_hash": "23794d91c53ae875c8e247d72561e35d9d06ee07c70c9e0dbcc977a6d161504a",
+    "target": "НЕТ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Shown",
+    "source_hash": "f9171164593756e56fb197327b529a4955590566560dbe62d586bff41be9d297",
+    "target": "ДА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "7b94af70978044f2a114de59196da66db365a245be307748b9c32cf671707798",
+    "target": "УГОЛ ОБЗОРА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "0a069b441a62ae14a24ebb63511ac54e4ebcee30a2514bbbc381b6a9ee9f95e3",
+    "target": "ЧУВСТВИТЕЛЬНОСТЬ МЫШИ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "75fe11a7bccce8a10ef85edca8bfba25879b698e944ca863214ea38e8df57875",
+    "target": "ЧУВСТВИТЕЛЬНОСТЬ СТИКА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "abeb562013cc2195911fc788c8198e88f929f085631977f09188aa8b4f01ba8e",
+    "target": "ИНВЕРСИЯ ОБЗОРА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "e7c3b854f207e114909227e64397b9f5b3d7959210b0a040ee2a7e8ede6f0d7c",
+    "target": "ЗЕРНИСТОСТЬ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "dd39f1e43297cb6812e01222037e411b1edfaf0c8c8502eec0f103db165eda88",
+    "target": "РАЗМЫТИЕ В ДВИЖЕНИИ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "51bfcf8a9c924bcf887d4f0e1125caec75da60ea4fe69c4f1e509676367adbb2",
+    "target": "ПОКАЧИВАНИЕ ГОЛОВЫ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "30e7724015a1f378871306cc61d597224206a1233f1cc6eadf42b7ae4b0a2cc8",
+    "target": "ОБЩАЯ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "cfe7e52822cb0abca3d434af6e0be3aab2fc534c8994575896bd633151ba0528",
+    "target": "ЭФФЕКТЫ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "3323c3d3282b6bdcca9f71a8ec91d46cdd2514f41914d414364ada7491ea328a",
+    "target": "ОКРУЖЕНИЕ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "08d5f92ca9e9cecc2807e89018f28f8d705476ab927b7c4ca79bda0efbe4baab",
+    "target": "МУЗЫКА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "5443880cfd8cd7bb7438f98fa138b9afe6bdb65579748851a89b6f144775ef03",
+    "target": "РАЗРЕШЕНИЕ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "e5b3bfddbf34912a666d477125f4ce4596d6ce853dff77d58deec29ff71bd707",
+    "target": "РЕЖИМ ЭКРАНА"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "b60635c430e185be0f215f3fe574bc7b460419c4689b93c8a8e5391f473e6af0",
+    "target": "КАЧЕСТВО ГРАФИКИ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "7eb4e8d92f68e5ca1fb06b5b62a52e034e66c0e477e6b555bb8105fb93bf9354",
+    "target": "ВЕРТ. СИНХРОНИЗАЦИЯ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "ef0fe09f52dad3cc64d5c14e7453e98620646054ec8fde0af0cf54c1978134b8",
+    "target": "ЛИМИТ КАДРОВ ("
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "Name",
+    "source_hash": "67298f78a4f0de9ead1317c9cae3766c55e509458c353f1200d4eec6109fbc06",
+    "target": "ЯРКОСТЬ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "OnGUI",
+    "source_hash": "02f6ea12816a9e7b8ce846f149281b130033cf5145d260dfea7405bc8866ee1e",
+    "target": "НАСТРОЙКИ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "OnGUI",
+    "source_hash": "25e4696b3f61346a58f8c437b62d0ce09509bbef0de46b56590a62565ef99913",
+    "target": "КЛАВИАТУРА И МЫШЬ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "OnGUI",
+    "source_hash": "875e9ea8234d5a5c7ff1a3f8650962e2c7e99a25dcfcb6d75eeb278102a26f66",
+    "target": "ГЕЙМПАД"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "OnGUI",
+    "source_hash": "639807a2e01886a2236b9fe1fe9bdbdea267b9c84c4acb3ab0858a6a13531b9a",
+    "target": "НАЗАД"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": "OnGUI",
+    "source_hash": "1d22d1fc795236f1ec18f2cdb019633f2bc05cafbfea439ec01148afe9073c5a",
+    "target": "СБРОСИТЬ НАСТРОЙКИ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "27cd427750d27e7f3cdb2e5c93e9266e6c12ffd6979760ec653d2ed092882800",
+    "target": "ЭКРАН"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "28baebc3d12621e39673279d6837b21441f1b563cd5b9ceee9a46a8215be5538",
+    "target": "ОБЗОР"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "4613822d04f273d0df31e79a3dd9bc7bea0acd15db18ef9e7515ea66a84d6691",
+    "target": "ЗВУК"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "e910f44e38d3a0d41585af996e4758bbc75f6f4fe112b4842123205daf9f0e80",
+    "target": "УПРАВЛЕНИЕ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "fa865b0f430f4527dfb6d176c456914e6dee9cfcc2f727803d17a52d70ba3c70",
+    "target": "ДВИЖЕНИЕ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "226e0758bf81c80fc48152a5e7299321a92172dcbdde243f2269def4d07c951d",
+    "target": "ОБЗОР"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "92297327e6e2fc4572c14a9d10c18d11e4c6a9701b1bcd2bcac9cfb64c871f9b",
+    "target": "МЫШЬ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "5b4e3fdff44610c389dcb1660dcf75bd6334fd84a705b3f33b9cbab5dd199232",
+    "target": "ИСПОЛЬЗОВАТЬ / ВЗЯТЬ / ПОЛОЖИТЬ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "30c1b4b9118ffe43f661802d0189ab8c1ce05b573933c523d558a677a3c7cac9",
+    "target": "ЛКМ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "8e5918aacb761c0989595cb8e194bc8ad8c337bb56acbd0a3839804689ea6310",
+    "target": "ОТОЙТИ / ПОЛОЖИТЬ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "97052d71531f1b8f0e1e2ef95406254b1f99fa1d8043c0f617cdf47bb40fd860",
+    "target": "ПРИБЛИЗИТЬ ПРИ ЧТЕНИИ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "2e1d57f13683e5242ced4de4ad2dee538999d6ba8e68795a057fc1d14cfaef2d",
+    "target": "УДЕРЖИВАТЬ ПКМ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "b25458c5a2dd6a2fde8d4c392e67cbd5253a8bd1200d771a425cf3d946ab6102",
+    "target": "УДЕРЖИВАТЬ <RT>"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "b2e502de4163866b3f2720cd1a071382c0453f97f8416ddd6770dc37e4539dd4",
+    "target": "БРОСИТЬ ДУШУ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "f3b0e4d8f41d6af95afcdec166d28e1d547f692c6069b58aca2d0d80664d061c",
+    "target": "ПКМ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "3a79335bdac687a3ccaf791436f8613a95d5b7c7ae951cb1c265137124974b95",
+    "target": "ПОВЕРНУТЬ ПРЕДМЕТ В РУКАХ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "079d72fb813497bff4a8a129fbbad65e989360c82ec6136424bc96da93191380",
+    "target": "УДЕРЖИВАТЬ [R]"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "26ab427468b84169d270563ead57615acfef10a94177c94c963a64d7f46bf450",
+    "target": "УДЕРЖИВАТЬ <LT>"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "254010cbcd63c6992dac8d18ed83d158293459f18bdb8ed04d33e76a2c2c941e",
+    "target": "ВЕРДИКТ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "3c1faf6c2967bce2c014388933502d1b6ccb678aced10c049b7933eb5b2513b7",
+    "target": "ПОТЯНУТЬ"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "f3bbca3a684e7f2d444140623724b2e48d741dcd44afeeae3ac4ee34f853c3f4",
+    "target": "КУРОК"
+  },
+  {
+    "type": "Deadline.SettingsScreen",
+    "method": ".cctor",
+    "source_hash": "11364a4c8f174651156e7203a53f4c1a7ab0e17014bf238d9abef50c3ea6e3f6",
+    "target": "МЕНЮ"
+  },
+  {
+    "type": "Deadline.ShiftHud",
+    "method": "OnGUI",
+    "source_hash": "6bef5a3561f288218463d4ddcc42888f74b8581c29e5f14b6ba9b2455ad56f62",
+    "target": "СМЕНА {shift}   —   ЗВОНОК"
+  },
+  {
+    "type": "Deadline.ShiftHud",
+    "method": "OnGUI",
+    "source_hash": "fb3ddd38c3f5ef22c9137ce7408a7044963e91000a2cceef2ce764615b8c9b7e",
+    "target": "СМЕНА {shift}     ОБРАБОТАНО {sorted} / {quota}     {clock}"
+  },
+  {
+    "type": "Deadline.ShiftHud",
+    "method": "OnGUI",
+    "source_hash": "92466d9d526a927ab06dcc72c4ba55f75b12bc64b7b5e830688293c0a9ca8a3b",
+    "target": "АВТООТПРАВКА {auto} / {auto_total}"
+  },
+  {
+    "type": "Deadline.StepHints",
+    "method": "Update",
+    "source_hash": "b842a849cdda253cb5b9cc12afbb5d60093c15d29b2076a3f07ddb245d030e7b",
+    "target": "ПРИБЛИЗИТЬ"
+  },
+  {
+    "type": "Deadline.StepHints",
+    "method": "Update",
+    "source_hash": "f44f455b60db2e8076abda6d5eb1d541f6b7a1033e2101b16a9902c515abf428",
+    "target": "ПОЛОЖИТЬ"
+  },
+  {
+    "type": "Deadline.StepHints",
+    "method": "Update",
+    "source_hash": "7a66eabf637f6a4c162d331966b5966e2656f4051ae52acbcb1af0a3ab2eff10",
+    "target": "СЛЕДУЮЩИЙ"
+  },
+  {
+    "type": "Deadline.StepHints",
+    "method": "Update",
+    "source_hash": "9ea852c36c0029aadcc54fa1b8e56489a8953a44a293099702e83be6d0e3489f",
+    "target": "ИДТИ"
+  },
+  {
+    "type": "Deadline.StepHints",
+    "method": "Update",
+    "source_hash": "92297327e6e2fc4572c14a9d10c18d11e4c6a9701b1bcd2bcac9cfb64c871f9b",
+    "target": "МЫШЬ"
+  },
+  {
+    "type": "Deadline.StepHints",
+    "method": "Update",
+    "source_hash": "b76f2f561d0b8de9291600a9e971ec3e12c0e56eb31a4dc6cbd94d89d97aa931",
+    "target": "ПОШЕВЕЛИТЬСЯ"
+  },
+  {
+    "type": "Deadline.VerdictReadout",
+    "method": "OnGUI",
+    "source_hash": "734377eac3fe67626336567aac24457854ecf1930af274e3987e054a7e60a1e5",
+    "target": "ВЕРДИКТ: НЕ ВЫСТАВЛЕН — установите рычаг"
+  },
+  {
+    "type": "Deadline.VerdictReadout",
+    "method": "OnGUI",
+    "source_hash": "7b120f7a062481658a160dad4e0704eaf0dfe09b88a2af6e17a48ae37e7b8f3d",
+    "target": "ВЕРДИКТ: ВНИЗ"
+  },
+  {
+    "type": "Deadline.VerdictReadout",
+    "method": "OnGUI",
+    "source_hash": "480cf8a0ed75e9f025fec8b3c626ed2be3ab75d24de15add913d93714cda07eb",
+    "target": "ВЕРДИКТ: ВВЕРХ"
+  },
+  {
+    "type": "Deadline.VerdictReadout",
+    "method": "OnGUI",
+    "source_hash": "b2b7716f780c2b33508a3dfa0ad53eb61ba6cfe2621e45bf72dde1f54d903061",
+    "target": "ПЕЧАТЬ: ВНИЗ"
+  },
+  {
+    "type": "Deadline.VerdictReadout",
+    "method": "OnGUI",
+    "source_hash": "a0b6266c7706e3f93d87ce894847707786b67b75b5bc1dee2de39c82f42b9128",
+    "target": "ПЕЧАТЬ: ВВЕРХ"
+  },
+  {
+    "type": "Deadline.MemoPaper",
+    "method": "FillPapa",
+    "source_hash": "e3814f3bea28d734989e4b2971269980e599ff9bad418857d5aeddf25a4cb6f0",
+    "target": "ОТДЕЛ КОНТРОЛЯ"
+  },
+  {
+    "type": "Deadline.MemoPaper",
+    "method": ".ctor",
+    "source_hash": "66abf578f2b41947a6807405429cb60195853f953a57222bc776f6b80fa89b16",
+    "target": "ВНУТРЕННЯЯ СЛУЖЕБНАЯ ЗАПИСКА"
+  },
+  {
+    "type": "Deadline.MemoPaper",
+    "method": ".ctor",
+    "source_hash": "22f98fc339dbe013dc193a4e8f7ea3d27a92f91d6446469568c719429f1390ec",
+    "target": "УВЕДОМЛЕНИЯ УЧРЕЖДЕНИЯ — СМЕНА {shift}"
+  },
+  {
+    "type": "Deadline.TimeCard",
+    "method": ".ctor",
+    "source_hash": "cf31214652bcbefdc922cfde2713c7c4e74324c88a61b5c0a0d2d502648c85f9",
+    "target": "ОТДЕЛ ОТПРАВКИ"
+  },
+  {
+    "type": "Deadline.TimeCard",
+    "method": ".ctor",
+    "source_hash": "fcce8dc044f665cb8ff75010d369d079b50ac827886d0af183186bca6938f0cd",
+    "target": "ОПЕРАТОР {0:0000}"
+  },
+  {
+    "type": "Deadline.TimeCard",
+    "method": ".ctor",
+    "source_hash": "6dbb80fe992f03a90d6f188c1d57a8ad6e0198afeab5c3e1d189d301eb6cb4b8",
+    "target": "ХРАНИТЬ. ИЗ АППАРАТА НЕ ИЗВЛЕКАТЬ."
+  },
+  {
+    "type": "Deadline.MemoPaper",
+    "method": "LiftFromAndRe",
+    "source_hash": "96b1c17d0261e75a45fd18935cbf1b9133d298bffe0e43169a864a91615b227f",
+    "target": "^(КОМУ|ОТ|ТЕМА)\\s*:\\s*([^\\n.]+)(\\.|\\n|$)\\s*"
+  },
+  {
+    "type": "Deadline.MemoPaper",
+    "method": "LiftFromAndRe",
+    "source_hash": "f4383c668fc0fd3898ecf9ff2ea3d6b7c62592e8e29ef2bb1eae3e2dd27eb0bd",
+    "target": "ОТ"
+  },
+  {
+    "type": "Deadline.MemoPaper",
+    "method": "LiftFromAndRe",
+    "source_hash": "b84b1b88dab63ec755c0c9f31c02aaef21b7e531bbb4cda5a62611c59e0dc8e3",
+    "target": "ТЕМА"
+  },
+  {
+    "type": "Deadline.MemoSystem",
+    "method": "SlotsFor",
+    "source_hash": "a7937b64b8caa58f03721bb6bacf5c78cb235febe0e70b1b84cd99541461a08e",
+    "target": "1"
+  }
+]

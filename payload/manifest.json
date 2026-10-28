@@ -1,0 +1,62 @@
+{
+  "patch_version": "1.0.0",
+  "game": "DEADLINE: Afterlife Processing Demo",
+  "unity_version": "6000.3.5f2",
+  "files": [
+    {
+      "path": "DEADLINE_Data/StreamingAssets/data/directives.csv",
+      "sha256": "dd8c1946045f316f1dd40c0256bd0acd91a9da150a941609b05bd28370fa743a",
+      "legacy_translated_sha256": "e2a0dd48f56b685ee27f5455ebb37486116ab87606bb6d6902b28965d27ce327"
+    },
+    {
+      "path": "DEADLINE_Data/StreamingAssets/data/guide.csv",
+      "sha256": "319fa2db4f4b5a974878708f6e0d412008e8fcd1abacc1d6e6b27bd7847cb111",
+      "legacy_translated_sha256": "c01b390db6d5f757cdee2e756e4582e7c4d97258a7198800ae38b1f0f83ce8ad"
+    },
+    {
+      "path": "DEADLINE_Data/StreamingAssets/data/memos.csv",
+      "sha256": "d2380b7b29dab7c5e2aae2512dd50513f259e07b89dc6771d1063c01b87396d6",
+      "legacy_translated_sha256": "77be08faa5687bd69e2a19d7cf28ce273179cb37414ec3f9d5d7c35b3b9025f7"
+    },
+    {
+      "path": "DEADLINE_Data/StreamingAssets/data/pa_lines.csv",
+      "sha256": "add1d5797e3c22cc8a134f490bc4463dcedec97eccc0a2531e9e37602bface47",
+      "legacy_translated_sha256": "acbf4a9316fbea5b55b55a2cf38cb57144018dce1c5abadcedc2e2102bed1905"
+    },
+    {
+      "path": "DEADLINE_Data/StreamingAssets/data/reconciliation.csv",
+      "sha256": "d1990cf95188fad8c55378d59114db8559033f1cb55adeabc179dac1f54904d9",
+      "legacy_translated_sha256": "5d7fee5a31b9301d648d22d2c0b5c7742f2a9be15bbef846b694ca6dc6db92c7"
+    },
+    {
+      "path": "DEADLINE_Data/StreamingAssets/data/souls.csv",
+      "sha256": "6b3ed8c821ee2af9e90224b7afac228c1caf4781e1fb1fea8a0ef70cd062e105",
+      "legacy_translated_sha256": "02d52c850408059548b7ce070946590b854e48bf7876b135b60415edbd961d67"
+    },
+    {
+      "path": "DEADLINE_Data/StreamingAssets/data/world_words.csv",
+      "sha256": "cfa3f08a9bebc5181cf8a5b443e2bc174540c1bca68e7ec1ad6464423a634d80",
+      "legacy_translated_sha256": "5a65a04a6a0504b3562a60af120c6d47b0f100788deed055d540c373d1e1e897"
+    },
+    {
+      "path": "DEADLINE_Data/resources.assets",
+      "sha256": "b8be8e76aaac5b585cc782ecdb2e40c220c25f2bc91bc7ae7efde38ca5e750c8",
+      "legacy_translated_sha256": "818fed001fbd4bea02a8d65a8fd1faa45007553ff4888e1731f7d179f71102e8"
+    },
+    {
+      "path": "DEADLINE_Data/sharedassets0.assets",
+      "sha256": "cf0999f8cd65cd0e82be1fccb8096759d3a9473382965c376a0fa99147f165fb",
+      "legacy_translated_sha256": "5dfa9400e8a85121b6a6e1e193ec5a1cb0d15f2670865220077ca5fa6e4e00c9"
+    },
+    {
+      "path": "DEADLINE_Data/level0",
+      "sha256": "5948efb7dd074551f4be9c57619aad5fdcd40f30a673cf530c12e9ffda71fdcc",
+      "legacy_translated_sha256": "672474ef9d323b010a4124602eae707772b76eaadb457a37346e54c3495ee00e"
+    },
+    {
+      "path": "DEADLINE_Data/Managed/Assembly-CSharp.dll",
+      "sha256": "ecfa35495d1aa3ec9a8eaaf3b77166b1d63f5899eea89168c22fc90ae6b2bd49",
+      "legacy_translated_sha256": "330be1c2c2affb1cf7a2034aae35881d8c132d99892169821e514a91e1f924da"
+    }
+  ]
+}
